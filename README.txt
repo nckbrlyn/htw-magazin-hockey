@@ -41,6 +41,8 @@ Verlinkung beim Punkt Team zu der Team-Seite mit der Karte. Überschriften mit z
 SPRACHE:
 An jeder Stelle kann man zur Englischen bzw. Französischen Version wechseln.
 
+Diese Publikation ist nicht Responsive (bis auf die Unterseite Information)
+
 
 === 
 
